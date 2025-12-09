@@ -16,6 +16,15 @@
 Attribute VB_Name = "Module2"
 Option Explicit
 
+'--------------------------------------------
+' Subroutine Name : PP_Text_Bounce()
+' Purpose         : 
+' Parameters      :
+'   
+'   
+' Returns         : None (Subroutines do not return values)
+
+
 Sub PP_Text_Bounce()
 Attribute PP_Text_Bounce.VB_ProcData.VB_Invoke_Func = "T\n14"
 '
