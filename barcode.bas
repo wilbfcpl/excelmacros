@@ -1,3 +1,18 @@
+'------------------------------------------------------------------------------
+' <file>        barcode.bas
+' <author>      wil blake
+' <created>     2025-12-09
+' <lastupdate>  2025-12-09
+' <version>     0.5
+' <description> Change 14 Digit barcode from Sci Notation to Text for CarlX
+'
+' <usage>       Optional: Example usage or notes for developers.
+'
+' <notes>       Optional: VBA code automatically generated from an earlier macro recording.
+'
+' <copyright>   © 2025 FCPL All rights reserved.
+'---------------
+
 Sub OriginalRecordedMacro()
 '
 ' Originally Recorded Macro
