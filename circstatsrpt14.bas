@@ -1,3 +1,18 @@
+'------------------------------------------------------------------------------
+' <file>        circ_stats_report14.bas
+' <author>      Your Name
+' <created>     YYYY-MM-DD
+' <lastupdate>  YYYY-MM-DD
+' <version>     1.0
+' <description> Brief description of what this module/class does.
+'
+' <usage>       Optional: Example usage or notes for developers.
+'
+' <notes>       Optional: Special considerations, dependencies, or warnings.
+'
+' <copyright>   © YYYY Your Company/Organization. All rights reserved.
+'---------------
+
 Attribute VB_Name = "Module2"
 Option Explicit
 
